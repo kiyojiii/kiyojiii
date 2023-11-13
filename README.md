@@ -87,7 +87,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kiyojiii/kiyojiii/output/snake.yml" alt="Snake animation" />
+<img src="https://github.com/kiyojiii/kiyojiii/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 

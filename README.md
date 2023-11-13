@@ -85,9 +85,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://github.com/kiyojiii/kiyojiii/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 

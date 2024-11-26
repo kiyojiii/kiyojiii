@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Clint Joshua O. Velasquez and I'm a 4th Year BS-IT Student from Mindanao State University - Iligan Institute of Technology.</p>
+<p align="left">Hi 👋! My name is Clint Joshua O. Velasquez and I'm a Fresh BS-IT Student from Mindanao State University - Iligan Institute of Technology.</p>
 
 ###
 
